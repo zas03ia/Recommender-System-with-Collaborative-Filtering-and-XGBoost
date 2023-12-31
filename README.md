@@ -1,0 +1,2 @@
+# Recommender-System-with-Collaborative-Filtering-and-XGBoost
+This Python code implements a recommendation system using collaborative filtering and XGBoost. The collaborative filtering aspect utilizes Singular Value Decomposition (SVD) from the Surprise library and cosine similarity to predict user and item preferences. The final model is enhanced using XGBoost for better performance and accuracy.
