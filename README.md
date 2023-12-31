@@ -22,4 +22,4 @@ xgboost
 matplotlib
 seaborn
 
-Inspiration: https://towardsdatascience.com/how-to-build-a-movie-recommendation-system-67e321339109
+
